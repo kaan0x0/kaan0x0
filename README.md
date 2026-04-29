@@ -3,6 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/VIEWS-104.2k-00ffea?style=flat-square&logo=target&logoColor=black" />
+  <img src="https://img.shields.io/badge/VIEWS-104.2k-4c1?style=flat-square&logo=googleanalytics&logoColor=white" />
   <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-white?style=flat-square" />
 </p>
